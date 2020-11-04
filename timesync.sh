@@ -21,3 +21,4 @@ date +%s -s @$gtimea
 hwclock --systohc --localtime
 fi
 #edited after years
+#oh blimey
